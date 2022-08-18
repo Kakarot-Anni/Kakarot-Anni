@@ -37,6 +37,8 @@
 </a>
 <a href="https://instagram.com/kakarot_anni" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/anni-chaturvedi/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
